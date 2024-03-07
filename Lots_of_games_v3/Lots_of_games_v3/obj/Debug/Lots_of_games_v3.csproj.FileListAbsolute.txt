@@ -1,0 +1,20 @@
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.exe.config
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.exe
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.pdb
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.AssemblyReference.cache
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.Form1.resources
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.Properties.Resources.resources
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.GenerateResource.cache
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.exe
+C:\Users\cakyr\source\repos\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.pdb
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.exe.config
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.exe
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\bin\Debug\Lots_of_games_v3.pdb
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.AssemblyReference.cache
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.Form1.resources
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.Properties.Resources.resources
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.GenerateResource.cache
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.exe
+C:\Users\cakyr\Desktop\education practice\Lots_of_games_v3\Lots_of_games_v3\obj\Debug\Lots_of_games_v3.pdb

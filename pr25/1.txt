@@ -1,0 +1,40 @@
+using System;
+
+namespace NumberConversionTrainer
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Создание датчика случайных чисел
+            Random random = new Random();
+
+            // Генерация двоичного числа от 0 до 255
+            int binaryNumber = random.Next(0, 256);
+
+            // Преобразование двоичного числа в восьмеричное и шестнадцатеричное
+            string octalNumber = Convert.ToString(binaryNumber, 8);
+            string hexNumber = Convert.ToString(binaryNumber, 16).ToUpper();
+
+            Console.WriteLine($"Двоичное число: {Convert.ToString(binaryNumber, 2).PadLeft(8, '0')}");
+            Console.WriteLine($"Введите число в восьмеричной системе счисления:");
+            string userOctalInput = Console.ReadLine();
+
+            Console.WriteLine($"Введите число в шестнадцатеричной системе счисления:");
+            string userHexInput = Console.ReadLine();
+
+            // Проверка введенных пользователем чисел
+            if (userOctalInput == octalNumber && userHexInput.ToUpper() == hexNumber)
+            {
+                Console.WriteLine("Правильно! Поздравляем!");
+            }
+            else
+            {
+                Console.WriteLine($"Неправильно. Правильные ответы: восьмеричная система - {octalNumber}, шестнадцатеричная система - {hexNumber}");
+            }
+
+            Console.WriteLine("Нажмите любую клавишу для выхода...");
+            Console.ReadKey();
+        }
+    }
+}

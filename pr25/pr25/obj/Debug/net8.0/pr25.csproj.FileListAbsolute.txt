@@ -1,0 +1,14 @@
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\bin\Debug\net8.0\pr25.exe
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\bin\Debug\net8.0\pr25.deps.json
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\bin\Debug\net8.0\pr25.runtimeconfig.json
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\bin\Debug\net8.0\pr25.dll
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\bin\Debug\net8.0\pr25.pdb
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.AssemblyInfoInputs.cache
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.AssemblyInfo.cs
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.dll
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\refint\pr25.dll
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.pdb
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\pr25.genruntimeconfig.cache
+C:\Users\cakyr\Desktop\education practice\pr25\pr25\obj\Debug\net8.0\ref\pr25.dll
